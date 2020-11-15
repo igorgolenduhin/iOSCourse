@@ -3,8 +3,8 @@
     "version": "1.0.0",
     "count": 3,
     "data":[
-        {"typeOfTicket": "Balcony Level", "count": 12, "price": 1170},
-        {"typeOfTicket": "Lower Level", "count": 20, "price": 10434},
-        {"typeOfTicket": "Courtside", "count": 15, "price": 27777}
+        {"ticketType": "Balcony Level", "ticketCount": 12, "ticketPrice": 1170},
+        {"ticketType": "Lower Level", "ticketCount": 20, "ticketPrice": 10434},
+        {"ticketType": "Courtside", "ticketCount": 15, "ticketPrice": 27777}
     ]
 }
